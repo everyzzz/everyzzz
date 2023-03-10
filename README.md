@@ -14,8 +14,8 @@
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self
-- Personal website [link](http://jlqr2311.pythonanywhere.com/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](http://jlqr2311.pythonanywhere.com/)
+- Personal website [link](https://portfoliojoseqr.netlify.app/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://portfoliojoseqr.netlify.app/)
 
 <br><br>
 
